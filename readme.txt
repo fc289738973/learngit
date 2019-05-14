@@ -1,7 +1,3 @@
-君若不爱酒，酒星不在天。
-奴若不爱酒，df 地应无酒泉！
-
-success!
-success!success!    bug
-success!
-success!
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
